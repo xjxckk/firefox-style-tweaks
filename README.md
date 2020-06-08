@@ -3,7 +3,7 @@
 ### Tree Style Tab:
 
 ```css
-/* Show close on hover */
+/* Show close button on hover */
 #tabbar tab-item:not(:hover) tab-closebox {display: none}
 
 /* Hide tree child count */
