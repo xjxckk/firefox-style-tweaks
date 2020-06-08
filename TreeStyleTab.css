@@ -1,9 +1,5 @@
-/* Show close on hover */
-#tabbar tab-item:not(:hover) tab-closebox {
-  display: none;
-}
+/* Show close button on hover */
+#tabbar tab-item:not(:hover) tab-closebox {display: none}
 
 /* Hide tree child count */
-#tabbar tab-counter {
-  display: none;
-}
+#tabbar tab-counter {display: none}
