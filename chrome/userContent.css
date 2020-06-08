@@ -1,3 +1,2 @@
-:root{
-  scrollbar-width: none;
-}
+/* Hide scrollbars */
+:root{scrollbar-width: none}
