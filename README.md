@@ -1,6 +1,6 @@
-## Firefox styling
+## Firefox Styling
 
-### Tree style tab:
+### Tree Style Tab:
 
 ```css
 /* Show close on hover */
