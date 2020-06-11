@@ -20,6 +20,9 @@
 
 /* Hide "Tree Style Tabs" sidebar header */
 #sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] #sidebar-header {display: none}
+
+/* Hide tab tooltip */
+#remoteBrowserTooltip {display: none}
 ```
 
 ### chrome/userContent.css:
