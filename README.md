@@ -8,6 +8,19 @@
 
 /* Hide tree child count */
 #tabbar tab-counter {display: none}
+
+#tabbar tab-item {
+  --tab-size: 30px !important;
+  height: var(--tab-size);
+}
+
+#tabbar tab-item tab-favicon {
+  margin-right: 5px
+}
+
+.new-tab-popup {
+  border: none
+}
 ```
 
 ### chrome/userChrome.css:
