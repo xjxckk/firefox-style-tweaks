@@ -1,4 +1,4 @@
-## Firefox styling
+## Firefox style tweaks
 
 ### Tree Style Tab:
 
